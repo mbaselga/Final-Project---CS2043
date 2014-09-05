@@ -1,0 +1,3 @@
+#!/bin/bash
+#inifite loop: for((; ;))
+curl http://www.movies.com/rss-feeds/top-ten-box-office-rss 2> /dev/null
